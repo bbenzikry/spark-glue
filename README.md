@@ -1,2 +1,2 @@
 # spark-glue
-Spark releases with AWS Glue support
+Spark3 releases ( w/o Hadoop ) + AWS Glue support
